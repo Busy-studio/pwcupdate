@@ -1,10 +1,7 @@
 {
-  "version": "1.0",
-  "download_url": "",
-  "sha256": "",
-  "encrypted": true,
-  "algorithm": "AES-256-GCM",
-  "notes": [
-    "현재 최신 버전입니다."
-  ]
+  "version": "1.01",
+  "package_url": "https://github.com/Busy-studio/pwcupdate/releases/download/v1.01/PNU_Weekly_Collector_Update_1.01.enc",
+  "sha256": "41c45c9a60dbbb0d603e3287b13f17feeb655d27373e62aa14f267c5bc4b838b",
+  "executable": "PNU_Weekly_Collector.exe",
+  "notes": "업데이트 내용을 입력하세요."
 }
