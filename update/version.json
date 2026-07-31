@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "download_url": "",
+  "sha256": "",
+  "encrypted": true,
+  "algorithm": "AES-256-GCM",
+  "notes": [
+    "현재 최신 버전입니다."
+  ]
+}
