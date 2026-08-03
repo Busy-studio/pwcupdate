@@ -1,7 +1,7 @@
 {
   "version": "1.01",
   "package_url": "https://github.com/Busy-studio/pwcupdate/releases/download/v1.01/PNU_Weekly_Collector_Update_1.01.enc",
-  "sha256": "1ad527098ffa6d9cfe943946b9ec5893d15eb53663d2d7af28e7f59a060b8ad0",
+  "sha256": "5915860cb3923c8348b20eb8f705b62c5bca8261895953b8072084f3809dfead",
   "executable": "PNU_Weekly_Collector.exe",
   "notes": "업데이트 내용을 입력하세요."
 }
